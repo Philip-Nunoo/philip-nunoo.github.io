@@ -4,7 +4,7 @@ pygments:         true
 
 # Permalinks
 permalink:        pretty
-baseurl: /philipnunoo
+baseurl: 
 
 # Setup
 title:            Philip A. Nunoo
