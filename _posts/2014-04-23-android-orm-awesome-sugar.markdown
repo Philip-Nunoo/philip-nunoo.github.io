@@ -1,13 +1,8 @@
 ---
 layout: post
-title:  "Android Awesome Sugar ORM!"
+title:  Android Awesome Sugar ORM!
 date:   2014-04-20 10:50:11
 categories: android programming
-summary: "ORM – Object relational mapping has been around for quite some time now. 
-Basically it’s a piece of software (regardless of targeted platform), 
-which simplifies the connection between objects (as in OOP) and data in database 
-(mostly used is tables based relational database), and it exists in order to help simplify 
-bridging the gap between the two in our development process."
 ---
 <p>
 <h1>ORM</h1>

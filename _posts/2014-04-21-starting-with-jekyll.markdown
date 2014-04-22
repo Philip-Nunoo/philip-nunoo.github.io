@@ -1,11 +1,8 @@
 ---
 layout: post
-title:  "Starting with Jekyll!"
-date:   2014-04-20 10:50:11
+title:  Starting with Jekyll!
+date:   2014-04-21 10:50:11
 categories: jekyll programming
-summary: "Jekyll is a static website generator developed in Ruby.
-I was excited to know at first that you could actually host your site of Github pages with
-Jekyll. And this gives an easier hosting method."
 ---
 [Jekyll][jekyll] is a static website generator developed in [Ruby][ruby].
 I was excited to know at first that you could actually host your site of Github pages with
