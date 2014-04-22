@@ -1,0 +1,26 @@
+.sidebar-item p a:last-child{
+	margin-right: 0rem;
+}
+.sidebar-item p a{
+	margin-right: 30%;
+}
+.sidebar-item p a i {
+    font-size: 30px;
+}
+
+.sidebar .sidebar-item p img {
+    display: block;
+    margin: auto;
+    border-radius: 75px;
+}
+
+.submit1 {
+    background: rgba(213,19,122,1);
+    border: 0;
+    border-radius: 0;
+    font-size: 17px;
+    padding: 10px 50px;
+    margin: 10px 0px;
+    color: #FFF;
+    height: auto;
+}
