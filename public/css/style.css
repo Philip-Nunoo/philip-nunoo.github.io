@@ -24,3 +24,7 @@
     color: #FFF;
     height: auto;
 }
+
+.highlight {
+    border: dashed 1px #75DAF2;
+}
