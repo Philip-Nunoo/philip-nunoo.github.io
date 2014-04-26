@@ -4,7 +4,7 @@
   {% include head.html %}
 
   <body class="theme-base-08" style="background: url('http://subtlepatterns.com/patterns/greyzz.png') repeat scroll 0% 0% transparent;">
-
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
     {% include sidebar.html %}
 
     <!-- Wrap is the content to shift when toggling the sidebar. We wrap the
@@ -20,11 +20,14 @@
           </h3>
         </div>
       </div>
-
-      <div class="container content">
+	  <div class="content-handler">
+      <div class="container content" style="float: left; max-width: 43rem; margin: none; ">
         {{ content }}
       </div>
+      <div class="social-cards">    
+		<div class="g-person" data-href="https://plus.google.com/u/2/117923116100147904075" data-width="180" data-showcoverphoto="true"></div>
+	  </div>
+	  </div>
     </div>
-
   </body>
 </html>

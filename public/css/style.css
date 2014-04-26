@@ -28,3 +28,29 @@
 .highlight {
     border: dashed 1px #75DAF2;
 }
+
+
+@media (min-width: 38rem) {
+  .container-handler {
+    max-width: 32rem;
+  }
+}
+@media (min-width: 56rem) {
+  .container-handler {
+    max-width: 38rem;
+  }
+}
+
+.content-handler {
+	max-width: 54rem;
+    margin: auto;
+    background-color: blue;
+}
+
+.container {
+    
+}
+
+.social-cards {
+	float: right;
+}
