@@ -5,11 +5,9 @@ title: About
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
-
 A passionate application Developer in Php, Ruby, Python, Javascript etc.
 
+</p>
 <p>
 Contact me to do your development for you.
 </p>
