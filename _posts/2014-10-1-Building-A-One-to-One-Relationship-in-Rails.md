@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Building a one-to-one Relationship on Rails
-published: true
 categories: ruby, ruby-on-rails, programming
+published: false
 ---
 
 Most at times we would want to have a database tables which has  

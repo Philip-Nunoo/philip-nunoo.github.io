@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Starting Rails Project in Specific Version
-published: true
+published: false
 categories: ruby, ruby-on-rails, programming
 ---
 

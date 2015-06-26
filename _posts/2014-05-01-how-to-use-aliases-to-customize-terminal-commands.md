@@ -3,6 +3,7 @@ layout: post
 title:  How to use aliases in Linux Terminal.
 date:   2014-05-03 8:15:01
 categories: Linux, Ubuntu
+published: false
 ---
 
 Most people find it difficult in  using the command line commands, as some commands

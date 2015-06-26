@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Installing The Tizen SDK On Linux
-published: true
+published: false
 categories: linux, android, programming
 ---
 

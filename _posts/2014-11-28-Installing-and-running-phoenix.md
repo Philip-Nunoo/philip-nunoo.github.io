@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Installing And Running Phoenix, Elixir
-published: true
+published: false
 categories: elixir, phoenix, programming, ubuntu
 ---
 
